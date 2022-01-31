@@ -14,9 +14,11 @@ It means that the  surviving vital GENs some how "know" to pass their way all ov
 In accordance with that, we can try to think about the solution (of the problem mentioned above) as if it was 
 a CHROMOSOM.
 Thus the algorithm models the process into computer functions, structures and statistics.
-The program developed with C language in visual studio code editor and .gcc compiler.
 
-This project is an exersize for learning purpuse only. I'll be happy to receive questions and comments.
-for further information regardles GA see: http://www.cs.cmu.edu/~02317/slides/lec_8.pdf
+
+NOTEs:
+- The program developed with C language in visual studio code editor and .gcc compiler.
+- The project is an exersize for learning purpuse only. I'll be happy to receive questions and comments.
+  for further information regardles GA see: http://www.cs.cmu.edu/~02317/slides/lec_8.pdf
 
 
