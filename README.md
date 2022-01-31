@@ -14,6 +14,6 @@ It means that the  surviving vital GENs some how "know" to pass their way all ov
 In accordance with that, we can try to think about the solution (of the problem mentioned above) as if it was 
 a CHROMOSOM.
 Thus the algorithm models the process into computer functions, structures and statistics.
-for further inf. see: https://www.mathworks.com/discovery/genetic-algorithm.html
+for further inf. see: http://www.cs.cmu.edu/~02317/slides/lec_8.pdf
 
 
