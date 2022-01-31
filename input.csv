@@ -1,0 +1,5 @@
+t,5,(Enter periods number),,,
+h,1,(Enter unit storage cost),,,
+k,1000,(Enter order cost),,,
+period num,1,2,3,4,5
+Demands,40,312,220,308,236
