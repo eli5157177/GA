@@ -1,5 +1,5 @@
 # GA
-Genetic Algoritem developing and implementing
+Genetic Algoritem developing and implementing project.
 This is an exersize of solution implementation in the "real world" problem.
 the problem: how much to manufacture in each period, given a storage cost demands and other parameters perperiod.
 While The main target is to minimize costs: storage and manufacturing.
